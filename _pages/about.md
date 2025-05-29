@@ -30,4 +30,4 @@ Hi! I'm Hollie, a game programmer at Lively/Electric Square and a committee memb
 
 I use C#, C++, Unity and UE5 to develop mobile, VR and PC/Console Games. I have experience in live ops, rapid prototyping and I'm currently working on a really exciting unannounced game shh!
 
-I enjoy working closely with designers and getting stuck into how the mechanics feel. I love implemented gameplay systems, figuring out a weird bug or diving into a large codebase. I care about creating readable and extendable code in the hope that nothing I write bites me or my colleagues in the butt in the future. I get a kick out of technical challenges and never want to stop learning.
+I enjoy working closely with designers and getting stuck into how the mechanics feel. I love implementing gameplay systems, figuring out a weird bug or diving into a large codebase. I care about creating readable and extendable code in the hope that nothing I write bites me or my colleagues in the butt in the future. I get a kick out of technical challenges and never want to stop learning.

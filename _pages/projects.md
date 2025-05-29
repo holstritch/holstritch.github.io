@@ -5,7 +5,7 @@ permalink: /projects/
 description: Below is a selection of projects I've worked on at work or in my spare time.
 nav: true
 nav_order: 3
-display_categories: [Lively/Electric Square, Personal projects]
+display_categories: [Game Credits, Personal projects]
 horizontal: false
 ---
 
