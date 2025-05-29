@@ -401,9 +401,9 @@ ninja.data = [{
             },},{id: "news-shortlisted-for-a-game-dev-heroes-award-in-the-progression-advocate-category-sparkles",
           title: 'Shortlisted for a Game Dev Heroes award, in the Progression Advocate category! :sparkles:...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-warped-kart-racers",
+          title: 'Warped Kart Racers',
+          description: "The ultimate kart racing game featuring the stars of American Dad!, Family Guy, King of the Hill and Solar Opposites!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
